@@ -1,0 +1,30 @@
+
+joe@ubuntu:~$ ethminer -F http://localhost:8545
+  ℹ  09:23:15|ethminer  Found suitable OpenCL device [ GeForce GTX 1060 6GB ] with 6366363648  bytes of GPU memory
+ cu  09:23:16|ethminer  Using grid size 8192 , block size 128
+  ℹ  09:23:16|cuda-0    No work. Pause for 3 s.
+ cl  09:23:16|cl-1      No work. Pause for 3 s.
+  m  09:23:16|ethminer  Waiting for work package...
+  m  09:23:16|ethminer  Got work package: #a2e6bc3c
+  m  09:23:16|ethminer  Speed   0.00 Mh/s    gpu/0  0.00  gpu/1  0.00  [A0+0:R0+0:F0] Time: 00:00
+  m  09:23:17|ethminer  Speed   0.00 Mh/s    gpu/0  0.00  gpu/1  0.00  [A0+0:R0+0:F0] Time: 00:00
+  m  09:23:17|ethminer  Speed   0.00 Mh/s    gpu/0  0.00  gpu/1  0.00  [A0+0:R0+0:F0] Time: 00:00
+  m  09:23:18|ethminer  Speed   0.00 Mh/s    gpu/0  0.00  gpu/1  0.00  [A0+0:R0+0:F0] Time: 00:00
+  m  09:23:18|ethminer  Speed   0.00 Mh/s    gpu/0  0.00  gpu/1  0.00  [A0+0:R0+0:F0] Time: 00:00
+  ℹ  09:23:19|cuda-0    Initialising miner...
+ cl  09:23:19|cl-1      New work: header #a2e6bc3c… target 00000009b2cc5d8d4c11375678d7d4424deeca83d782eb04023b2fd92e7879c6
+ cl  09:23:19|cl-1      New seed #ec9d541d…
+  m  09:23:19|ethminer  Speed   0.00 Mh/s    gpu/0  0.00  gpu/1  0.00  [A0+0:R0+0:F0] Time: 00:00
+  m  09:23:19|ethminer  Speed   0.00 Mh/s    gpu/0  0.00  gpu/1  0.00  [A0+0:R0+0:F0] Time: 00:00
+  m  09:23:20|ethminer  Speed   0.00 Mh/s    gpu/0  0.00  gpu/1  0.00  [A0+0:R0+0:F0] Time: 00:00
+ cl  09:23:20|cl-1      Platform: NVIDIA CUDA
+ cl  09:23:20|cl-1      Device:   GeForce GTX 1060 6GB  / OpenCL 1.2 CUDA
+ cu  09:23:20|cuda-0    Using device: GeForce GTX 1060 6GB  (Compute 6.1)
+ cu  09:23:20|cuda-0    Set Device to current
+ cu  09:23:20|cuda-0    Resetting device
+  m  09:23:20|ethminer  Speed   0.00 Mh/s    gpu/0  0.00  gpu/1  0.00  [A0+0:R0+0:F0] Time: 00:00
+ cl  09:23:21|cl-1      OpenCL kernel: Stable kernel
+  m  09:23:21|ethminer  Speed   0.00 Mh/s    gpu/0  0.00  gpu/1  0.00  [A0+0:R0+0:F0] Time: 00:00
+ cu  09:23:21|cuda-0    Allocating light with size: 17955904
+ cu  09:23:21|cuda-0    Generating mining buffers
+ cu  09:23:21|cuda-

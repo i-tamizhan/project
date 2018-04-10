@@ -1,0 +1,24 @@
+30 packages can be updated.
+0 updates are security updates.
+
+Last login: Tue Apr 10 08:08:17 2018 from 117.216.35.168
+                          ./+o+-       joe@ubuntu
+                  yyyyy- -yyyyyy+      OS: Ubuntu 16.04 xenial
+               ://+//////-yyyyyyo      Kernel: x86_64 Linux 4.4.0-119-generic
+           .++ .:/++++++/-.+sss/`      Uptime: 52m
+         .:++o:  /++++++++/:--:/-      Packages: 2329
+        o:+o+:++.`..```.-/oo+++++/     Shell: bash 4.3.48
+       .:+o:+o/.          `+sssoo+/    CPU: Intel Core2 Duo CPU E7500 @ 2.933GHz
+  .++/+:+oo+o:`             /sssooo.   GPU: GeForce GTX 1060 6GB
+ /+++//+:`oo+o               /::--:.   RAM: 509MiB / 3950MiB
+ \+/+o+++`o++o               ++////.  
+  .++.o+++oo+:`             /dddhhh.  
+       .+.o+oo:.          `oddhhhh+   
+        \+.++o+o``-````.:ohdhhhhh+    
+         `:o+++ `ohhhhhhhhyo++os:     
+           .o:`.syhhhhhhh/.oo++o`     
+               /osyyyyyyo++ooo+++/    
+                   ````` +oo+++o\:    
+                          `oo++.      
+joe@ubuntu:~$ 
+
